@@ -13,7 +13,7 @@
 
 [description](description.md)
 <br>
-[Pluem](https://kongsiri07.github.io/)
+[Pluem](https://kongsiri07.github.io)
 
 
 
