@@ -1,5 +1,5 @@
     
-<h1 align="center">Sand Box </h1>
+**Sand Box
 <h3>CISSP Glossary - Student Guids 
 </h3>
 
