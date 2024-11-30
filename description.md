@@ -1,7 +1,10 @@
-
 <body>
     <h1 align="center">Sand Box </h1>
-    <h3>CISSP Glossary - Student Guids [links](https://www.isc2.org/certifications/cissp/cissp-student-glossary)</h3>
+    <h3>CISSP Glossary - Student Guids 
+    
+[links](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+
+</h3>
       <p>: An isolated test environment that simulates the production environment but will not affect production components/data.</p>
       <p>Chat GPT :</p>
         <p>สภาพแวดล้อมการทดสอบที่แยกออกจากกัน ซึ่งจำลองสภาพแวดล้อมการทำงานจริง (production environment) แต่จะไม่ส่งผลกระทบต่อส่วนประกอบหรือข้อมูลของระบบการทำงานจริง</p>
