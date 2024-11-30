@@ -1,9 +1,8 @@
 <body>
     <h1 align="center">Sand Box </h1>
-    <h3>CISSP Glossary - Student Guids 
+    <h3>CISSP Glossary - Student Guids
+    <a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary">CISSP</a>
     
-[CISSP](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
-
 </h3>
       <p>: An isolated test environment that simulates the production environment but will not affect production components/data.</p>
       <p>Chat GPT :</p>
@@ -11,8 +10,7 @@
       <p>Gemini :</p>
         <p>ด้ความหมายว่าสภาพแวดล้อมการทดสอบแบบแยกส่วนที่เลียนแบบสภาพแวดล้อมการผลิต แต่จะไม่ส่งผลกระทบต่อส่วนประกอบ/ข้อมูลการผลิต</p>
     <h3>National Institute of Standards and Technology 
-        
-[NIST](https://csrc.nist.gov/glossary)
+        <a href="https://csrc.nist.gov/glossary">NIST</a>
 
 </h3>
       <p>: Demo is a sandbox-style environment in which users may test their algorithm implementations and ACVP client applications.</p>
