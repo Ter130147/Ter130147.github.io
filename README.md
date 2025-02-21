@@ -19,6 +19,8 @@
 
 *  [Boardgame](boardgame.md)
 
+*  [Security requirment](security-requirments.md)
+
 *  [Pluem](https://kongsiri07.github.io)
 
 
